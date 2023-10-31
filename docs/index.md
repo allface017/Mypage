@@ -34,4 +34,4 @@ hoge[hoge](./hoge.md)
 
 huge[huge](./huga/huga.md)
 
-![ほげ](./hoge.png)
+![ほげ](./hoge.jpg)
